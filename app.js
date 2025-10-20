@@ -1,1 +1,1 @@
-alert("hello now!");
+alert("hello now number 2!");
